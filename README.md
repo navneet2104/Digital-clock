@@ -1,7 +1,4 @@
 # Digital-clock
-Using javascript 
- 
- 
-# host 
+# Using javascript  
 
 https://navneet2104.github.io/Digital-clock/.
